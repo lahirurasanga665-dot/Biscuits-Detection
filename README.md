@@ -1,18 +1,18 @@
-# 🍪 Biscuit Detection and Classification
+#  Biscuit Detection and Classification
 
-## 📌 Project Title
+##  Project Title
 Biscuit Detection and Classification (Intact vs Broken) using Classical Image Processing
 
 ---
 
-## 📖 Problem Description
+##  Problem Description
 The objective of this project is to detect biscuits in images and classify each biscuit as **intact** or **broken**.
 
 This system uses only **classical image processing techniques** such as edge detection, contour detection, and morphological operations. No machine learning or deep learning methods are used.
 
 ---
 
-## 🧰 Tools and Libraries Used
+##  Tools and Libraries Used
 - Python  
 - OpenCV (cv2)  
 - NumPy  
@@ -20,7 +20,7 @@ This system uses only **classical image processing techniques** such as edge det
 
 ---
 
-## ⚙️ Image Processing Methods Used
+##  Image Processing Methods Used
 
 The system follows these steps:
 
@@ -65,7 +65,7 @@ For each biscuit:
 
 ---
 
-## ▶️ Instructions to Run the Code
+##  Instructions to Run the Code
 1. Place input images in the `input` folder  
 2. Run the code:
 
@@ -75,7 +75,7 @@ python main.py
 
 ---
 
-## 🧪 Example Output Images
+##  Example Output Images
 ![Output Image](output/FINAL_I_3.jpg)
 ![Output Image](output/FINAL_I_9.jpg)
 
