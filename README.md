@@ -76,7 +76,7 @@ python main.py
 ---
 
 ## 🧪 Example Output Images
-
+![Output Image](output/FINAL_I_3.jpg)
 ### Input
 - Image with multiple biscuits on a white background  
 
